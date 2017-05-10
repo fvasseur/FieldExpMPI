@@ -4,7 +4,7 @@ In total there are 451 accessions that have been sown in 2014. The progeny (2nd 
 Description of the samples with IDs is available in Table_IDseq.
 
 We start with a series of fastq files that we want to proceed for mapping to the reference, filtering bad quality, SNP calling and SNP filtering.
-Data are available at: http://ftp.tuebingen.mpg.de/pub/ebio/beth/francoisfield/
+
 
 In this first analysis, I processed three samples (S7, S8 and S9) to map SNPs with the following code:
 
